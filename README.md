@@ -2,41 +2,32 @@
 
 ### Aspiring Software Engineer | Data Science Undergraduate
 
-I'm a software developer interested in building reliable full-stack applications and intelligent, data-driven solutions.
+I'm a computing graduate passionate about building practical software solutions and exploring data-driven technologies.
 
 * 🎓 HND in Computing (Software Engineering)
-* 📚 Currently following a BSc (Hons) in Data Science (Top-Up)
-* 💻 Interested in Software Engineering, Full-Stack Development, and Machine Learning
-* 🚀 Currently developing **HelpDeskPro**, an IT help desk management system
+* 📚 Currently pursuing a BSc (Hons) in Data Science (Top-Up)
+* 💻 Interested in backend development, full-stack applications, and Data Science
+* 🚀 Building projects with ASP.NET Core, React, and SQL Server
+* 🎯 Career goal: Software Engineer Intern / Junior Software Engineer
 
-### 🛠️ Technologies & Tools
+## Technical Skills
 
-* **Languages:** C#, Python, JavaScript, SQL
-* **Backend:** ASP.NET Core Web API, Entity Framework Core
-* **Frontend:** React, HTML, CSS
-* **Database:** Microsoft SQL Server
+* **Languages:** C#, JavaScript, Python, SQL
+* **Backend:** ASP.NET Core Web API, Entity Framework Core, REST APIs
+* **Frontend:** React, HTML, CSS, Tailwind CSS
+* **Database:** SQL Server
 * **Tools:** Git, GitHub, Visual Studio, VS Code
-* **Data Science:** Pandas, NumPy, scikit-learn (learning and developing practical projects)
 
-### 📌 Featured Projects
+## Featured Project
 
-**HelpDeskPro — IT Help Desk Management System**
+### HelpDeskPro — IT Help Desk Management System
 
-A full-stack application for managing support tickets, users, assignments, comments, and real-time notifications.
+A full-stack application for managing employee IT support tickets, assignments, and ticket status workflows.
 
-**Technologies:** ASP.NET Core, React, SQL Server, JWT, SignalR
+**Technologies:** ASP.NET Core, React, SQL Server, Entity Framework Core, JWT.
 
-*Project repository and screenshots coming soon.*
+🔗 [View HelpDeskPro on GitHub](https://github.com/mohammed-rifadh/HelpDeskPro)
 
-### 🎯 My Goals
+## Connect With Me
 
-* Build professional, portfolio-ready software projects
-* Improve my software engineering and data science skills
-* Contribute to collaborative software development
-* Secure a Software Engineering Internship
-
-### 📫 Connect With Me
-
-* GitHub: https://github.com/mohammed-rifadh
-
-Thanks for visiting my profile! ⭐
+* GitHub: [mohammed-rifadh](https://github.com/mohammed-rifadh)
